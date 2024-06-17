@@ -1,4 +1,4 @@
-package com.pragra.firstride;
+package com.pragra.firstride.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
